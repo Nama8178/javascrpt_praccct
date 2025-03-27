@@ -1,1 +1,1 @@
-# javascrpt_praccct
+# javascrpt_practice
